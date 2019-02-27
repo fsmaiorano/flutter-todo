@@ -14,5 +14,5 @@ Open a simulator (MacOS) or emulator (android) and execute:
 $ flutter run
 ```
 
-![demoapp](https://ibb.co/Bc9ffks)
+![demoapp](https://i.ibb.co/S5z66Sv/todo.gif)
 
